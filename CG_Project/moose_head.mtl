@@ -1,0 +1,12 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5 5.0.2.1477 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Explorer_Default
+Ka 0.32 0.22 0.02
+Kd 0.01 0.01 0.01
+Ks 0.5 0.5 0.5
+Ns 250.0 
